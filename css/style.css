@@ -1,0 +1,186 @@
+*{
+margin: 0%;
+padding: 0%;
+font-family: "playfair Display"
+}
+.bgimg{
+    background-image: url(../img/hero_3.jpg.webp);
+    height: 100vh;
+    background-size: cover;
+    min-height: 100px;
+    background-position: center;
+    /* opacity: 0.5; */
+}
+.h1{
+    color: #fff;
+    font-size: 26px;
+    margin-top: 30px;
+    padding: 5px 25px;
+    /* position: fixed; */
+    font-weight: bold;
+}
+.display{
+    display: flex;
+    /* justify-content: center; */
+    gap: 400px;
+}
+
+ ul{
+    margin-top: 30px;
+    padding: 5px 25px;
+    float: right;
+    list-style: none; 
+    font-size: 14px;
+    /* word-spacing: 10px; */
+ }
+ ul li{
+    display: inline-block;
+   
+ }
+ 
+ ul li a{
+    color: #FFFFFF99;
+    text-decoration: none;
+    padding: 5px 25px;
+    font-size: 15px;
+    
+ }  
+ ul li a:hover{
+    color: #fff;
+ }
+.title{
+   font-size: 40px;
+   /* font-weight: bold; */
+   text-align: center;
+   font-family: playfair Display;
+   position: relative;
+   text-decoration: underline;
+}
+.card-text{
+   text-align: center;
+   font-size: 20px;
+  
+}
+.money{
+   text-align: center;
+   color: grey;
+}
+.room{
+   background-color: #F8F9FA;
+   /* color: #00000080; */
+   padding-bottom: 200px;
+}
+.img:hover{
+   transform: scale();
+}
+.about{
+   padding-left: 100px;
+   margin-top: 30px;
+   font-size: 42px;
+   text-decoration: underline;
+}
+.text{
+   font-size: 19px;
+   font-family: "worksans";
+   padding-left: 100px;
+   color: grey;
+}
+.link{
+   padding-left: 100px;
+   color: red;
+   text-decoration: none;
+}
+.img1{
+   position: absolute;
+   margin-top: 230px;
+   left: 450px;
+   border: 3px inset white;
+}
+.describe{
+   color: #000000;
+   font-size: 20px;
+   font-family: "work sans";
+   margin: 0px 0px 8px;
+}
+.hotel{
+   text-align: center;
+}
+.bg-img{
+   background-image: url(../img/hero_1.jpg);
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+   background-size: cover cover;
+   height:280px;
+   width: 100%;
+   opacity: 0.9;
+}
+.design{
+   font-size: 32px;
+   font-family: "work sans";
+   margin: 0px 0px 8px;
+   color: #fff;
+}
+.p{
+   color: #fff;
+   letter-spacing: 2px;
+   padding: 0px 0px 8px;
+   font-size: 14px;
+}
+.containt{
+   color: #FFFFFF66;
+   font-size: 16px;
+   font-family: "work sans";
+}
+.count{
+   font-size: 40px;
+   color: #fff;
+   font-family: "work sans";
+}
+
+.avil-text:hover{
+   background-color: rgba(255, 255, 0, 0.986);
+
+}
+
+.avil-text{
+   /* border: 1px solid white; */
+   padding: 13px 25px;
+   border: 1px solid yellow;
+   color:white;
+   font-weight: 700;
+   text-decoration: none;
+
+}
+
+
+
+.img-text{
+   font-size: 23px;
+   text-transform: capitalize;
+   
+}
+.img-time{
+   color: gray;
+   font-size: 19px;
+}
+.span-text{
+   color: white;
+   background-color: black;
+}
+.people-text{
+   color: gray;
+   font-size: 19px;
+}
+.color{
+   color: gray;
+}
+.list-menu{
+   list-style: none;
+   color: gray;
+}
+.bg-darkness{
+   height: 400px;
+}
+.display-inline{
+   display: inline;
+}
